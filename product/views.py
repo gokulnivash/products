@@ -19,7 +19,7 @@ class Loginview(generics.GenericAPIView):
         """
             # API - Product Create and Update
 
-            # URL - /psychiatric/assessment/values/
+            # URL - user/login/
 
             # Sample request for create
 
