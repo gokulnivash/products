@@ -89,7 +89,7 @@ class ProductView(generics.GenericAPIView):
         """
             # API - Product Create and Update
 
-            # URL - /psychiatric/assessment/values/
+            # URL - product/
 
             # Sample request for create
 
